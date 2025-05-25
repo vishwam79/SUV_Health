@@ -12,7 +12,7 @@ import { LinkContainer } from "react-router-bootstrap";
 import { useNavigate } from "react-router-dom";
 import { useLogoutMutation } from "../slices/usersApiSlice";
 import { logout } from "../slices/authSlice";
-import logo from "../images/ehealth.svg";
+
 
 const Header = () => {
   const { cartItems } = useSelector((state) => state.cart);
@@ -47,7 +47,7 @@ const Header = () => {
         <Container fluid style={{ maxWidth: "1280px" }}>
           <LinkContainer to="/">
             <Navbar.Brand className="d-flex align-items-center fw-bold text-dark">
-              <img src={logo} alt="logo" width="30" className="me-2" />
+              <img src="/icon123.png" alt="logo" width="30" className="me-2" />
               Hospital Mangement system
             </Navbar.Brand>
           </LinkContainer>

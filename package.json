@@ -15,7 +15,7 @@
     "react-router-dom": "^6.10.0",
     "uuid": "^9.0.1"
   },
-  "name": "ehealth",
+  "name": "hospital_mangement_system",
   "version": "2.0.0",
   "description": "health care",
   "type": "module",

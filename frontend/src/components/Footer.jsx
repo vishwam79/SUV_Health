@@ -6,7 +6,7 @@ import {
   CDBIcon,
 } from "cdbreact";
 import { Link } from "react-router-dom";
-import logo from "../images/ehealth.svg";
+// import logo from "../../public/icon123.png";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -33,8 +33,8 @@ const Footer = () => {
           {/* Logo and description */}
           <CDBBox style={{ minWidth: "250px" }}>
             <p className="h5 mb-3 d-flex align-items-center fw-semibold">
-              <img src={logo} alt="logo" width="32" className="me-2" />
-              eHealth
+              <img src="/icon123.png" alt="logo" width="32" className="me-2" />
+              Hoapital Management System
             </p>
             <p className="text-muted" style={{ maxWidth: "260px" }}>
               Providing reliable digital healthcare. Book appointments, donate
