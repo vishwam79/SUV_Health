@@ -1,6 +1,8 @@
-# eHealth
+# Hospital Mangement system
 
-The Idea Of “eHealth – A Complete Health Care” Website Using Mern Stack Development.
+
+The Idea Of “Hospital Mangement system
+ – A Complete Health Care” Website Using Mern Stack Development.
 
 ## Background and Motivation
 
@@ -46,15 +48,15 @@ Everyone.
 ## User Interface :
 <p align="center">
   <b>Title</b><br>
-    <img src="ss/title.JPG">
+    <img src="ss/title.png">
    <b> Registration / User Login / Forget Password</b><br>
     <img src="ss/login.jpg">
-    <img src="ss/reg.jpg">
+    <img src="ss/reg.png">
     <img src="ss/forget.jpg">
     <br><b> Medicine Info Page</b><br>
-    <img src="ss/medicine_page.jpg">
-    <b> Medicine Page Details</b><br>
-    <img src="ss/medicine_details.jpg">
+    <img src="ss/medicine_page.png">
+    <br>
+    <img src="#">
     <br><b> Purchase Process</b><br>
     <img src="ss/purchase 1.jpg">
     <img src="ss/purchase 2.jpg">
@@ -65,7 +67,7 @@ Everyone.
     <b> Paypal</b><br>
     <img src="ss/paypal.jpg"><br>
     <b> Doctor Info</b><br>
-    <img src="ss/doctorInfo.jpg">
+    <img src="ss/doctorInfo.png">
     <b> Doctor Details</b><br>
     <img src="ss/doctordetails.jpg">
     <b> Appointment Process</b><br>
@@ -74,9 +76,9 @@ Everyone.
     <br><b> Appointment Confirm</b><br>
     <img src="ss/appointment.jpg">
     <br><b> Blood Donors</b><br>
-    <img src="ss/blooddonors.jpg">
-    <br><b> Filter Donor</b><br>
-    <img src="ss/filterdonor.jpg">
+    <img src="ss/blooddonors.png">
+    <br><br>
+    <img src="#">
     <br><b> Request Blood</b><br>
     <img src="ss/request_form.jpg">
     <img src="ss/req_sumary.jpg"><br>
@@ -85,7 +87,7 @@ Everyone.
     <b> User Profile </b><br>
     <img src="ss/userprofile.jpg">
     <b> Admin Profile</b><br>
-    <img src="ss/adminprofile.jpg">
+    <img src="ss/adminprofile.png">
     <b> Medicine Panel</b><br>
     <img src="ss/medicinepanel.jpg">
     <b> Create, Update and Delete Medicines</b><br>
@@ -93,7 +95,7 @@ Everyone.
     <b> Doctor Panel</b><br>
     <img src="ss/doctorpanel.jpg">
     <b> Create, Update and Delete Doctors</b><br>
-    <img src="ss/create updaet and del doctor.JPG">
+    <img src="ss/create updaet and del doctor.JPG"
     <b> Donor Panel</b><br>
     <img src="ss/donorpanel.jpg">
     <b> Create, Update and Delete Donors</b><br>
